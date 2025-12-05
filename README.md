@@ -2,8 +2,8 @@
 
 - Studying Computer Science @ Georgia Tech
 
-- Check out [GT Transit](https://buzz-bus.vercel.app/)
-, a project for navigating Georgia Tech's campus with their buses
+- Check out my latest project, [GT Transit](https://buzz-bus.vercel.app/),
+, a web application for navigating Georgia Tech's campus using public transportation
 
 <!--
 **vedantlbhatt/vedantlbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
