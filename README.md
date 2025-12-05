@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Vedant!
+
+- Studying Computer Science @ Georgia Tech
+
+- Check out [![GT Transit](https://buzz-bus.vercel.app/)](https://buzz-bus.vercel.app/)
+, a project for navigating Georgia Tech's campus with their buses
 
 <!--
 **vedantlbhatt/vedantlbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
