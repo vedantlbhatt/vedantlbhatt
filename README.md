@@ -2,7 +2,7 @@
 
 - Studying Computer Science @ Georgia Tech
 
-- Check out [![GT Transit](https://buzz-bus.vercel.app/)](https://buzz-bus.vercel.app/)
+- Check out [GT Transit](https://buzz-bus.vercel.app/)
 , a project for navigating Georgia Tech's campus with their buses
 
 <!--
