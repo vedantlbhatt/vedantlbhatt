@@ -2,7 +2,8 @@
 
 - Studying Computer Science @ Georgia Tech
 - Incoming SDE Intern @ Expedia Group
-
+- Seeking Fall 2026 Internships/Co-ops
+  
 - Check out my latest project, [GT Transit](https://gt-transit.com/)
 , a web application for navigating Georgia Tech's campus using public transportation
 
