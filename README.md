@@ -7,6 +7,8 @@
 - Check out my latest project, [GT Transit](https://gt-transit.com/)
 , a web application for navigating Georgia Tech's campus using public transportation
 
+
+
 Feel free to reach out to collaborate. I'm always looking for something new to build!
 
 Contact me through my email: vedantlalitbhatt@gmail.com
