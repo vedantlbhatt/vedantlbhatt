@@ -5,7 +5,7 @@
 - Seeking Fall 2026 Internships/Co-ops
   
 - Check out my latest project, [GT Transit](https://gt-transit.com/)
-, a web application for navigating Georgia Tech's campus using public transportation
+, a web application for navigating Georgia Tech's campus using public transportation<br>
 
 
 
