@@ -1,7 +1,7 @@
 ## Hi! I'm Vedant!
 
 - Studying Computer Science @ Georgia Tech
-- Incoming SDE Intern @ Expedia Group
+- Incoming Summer SDE Intern @ Expedia Group in Seattle, WA
 - Seeking Fall 2026 Internships/Co-ops
   
 - Check out my latest project, [GT Transit](https://gt-transit.com/)
