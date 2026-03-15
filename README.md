@@ -11,6 +11,7 @@ Feel free to reach out to collaborate. I'm always looking for something new to b
 
 Email: vedantlalitbhatt@gmail.com 
 Phone #: 4043331778
+Linkedin: https://www.linkedin.com/in/vedantlbhatt/
 
 <!--
 **vedantlbhatt/vedantlbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
