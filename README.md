@@ -9,8 +9,8 @@
 
 Feel free to reach out to collaborate. I'm always looking for something new to build!
 
-Email: vedantlalitbhatt@gmail.com 
-Phone #: 4043331778
+Email: vedantlalitbhatt@gmail.com <\br>
+Phone #: 4043331778 <\br>
 Linkedin: https://www.linkedin.com/in/vedantlbhatt/
 
 <!--
