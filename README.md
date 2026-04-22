@@ -1,7 +1,9 @@
 ## Hi! I'm Vedant!
 
 - Studying Computer Science @ Georgia Tech
-  
+- 
+- Incoming SDE Intern @ Expedia Group
+
 - Check out my latest project, [GT Transit](https://gt-transit.com/)
 , a web application for navigating Georgia Tech's campus using public transportation<br>
 
@@ -9,8 +11,11 @@
 
 Feel free to reach out to collaborate. I'm always looking for something new to build!
 
-Email: vedantlalitbhatt@gmail.com <\br>
-Phone #: 4043331778 <\br>
+
+Email: vedantlalitbhatt@gmail.com
+
+Phone #: 4043331778
+
 Linkedin: https://www.linkedin.com/in/vedantlbhatt/
 
 <!--
