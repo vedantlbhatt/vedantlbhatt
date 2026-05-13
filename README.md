@@ -1,7 +1,7 @@
 ## Hi! I'm Vedant!
 
 - Studying Computer Science @ Georgia Tech
-- Incoming SDE Intern @ Expedia Group in Seattle, WA for Summer 2026!
+- Current SDE Intern @ Expedia in Seattle, WA for Summer 2026
 - Won $25,000+ in prizes over 5 hackathons
   
 - Check out my latest project, [RideGT](https://ridegt.com/), with hundreds of users for navigating Georgia Tech's campus using public transportation
@@ -10,7 +10,8 @@
 Feel free to reach out to collaborate. I'm always looking for something new to work on!
 
 Email: vedantlalitbhatt@gmail.com
-Linkedin: https://www.linkedin.com/in/vedantlbhatt/
+Linkedin: [connect please :)](https://www.linkedin.com/in/vedantlbhatt/)
+Devpost: [all hackathons] (https://devpost.com/vedubhatt2006?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <!--
 **vedantlbhatt/vedantlbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
