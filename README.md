@@ -10,6 +10,7 @@
 Feel free to reach out to collaborate. I'm always looking for something new to work on!
 
 Email: vedantlalitbhatt@gmail.com
+
 Linkedin: [connect please :)](https://www.linkedin.com/in/vedantlbhatt/)
 
 Devpost: [all hackathons](https://devpost.com/vedubhatt2006?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
