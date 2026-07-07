@@ -2,10 +2,10 @@
 
 - Studying Computer Science @ Georgia Tech
 - Current SDE Intern @ Expedia in Seattle, WA for Summer 2026
-- Won $25,000+ in prizes over 5 hackathons
+- Won $25,000+ in prizes over 6 hackathons
   
 - Check out my latest project, [RideGT](https://ridegt.com/), with thousands of users across web + app platforms for navigating Georgia Tech's campus using public transportation
-    - Reached 70,000+ impressions on LinkedIn and 600+ likes
+    - Reached 600+ likes and 70,000+ impressions on Linkedin!
     - Download it on the [app store!](https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983)
 
 Feel free to reach out to collaborate! I'm always looking for something new to work on!
