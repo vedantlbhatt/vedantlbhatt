@@ -1,24 +1,25 @@
-<table>
+<table border="0" cellspacing="30" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
       <img src="assets/vedant-portrait.png" alt="Vedant Bhatt" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <h3>Hi! I'm Vedant!</h3>
-      <p>
+      <b>Hi! I'm Vedant!</b>
+      <br/><br/>
+      <small>
         • Studying Computer Science @ Georgia Tech<br/>
         • Current SDE Intern @ Expedia in Seattle, WA for Summer 2026<br/>
         • Won $25,000+ in prizes over 6 hackathons<br/>
-        • Check out my latest project, <a href="https://ridegt.com/">RideGT</a>, with thousands of users across web + app platforms for navigating Georgia Tech's campus using public transportation<br/>
-        &nbsp;&nbsp;◦ Reached 600+ likes and 70,000+ impressions on Linkedin!<br/>
-        &nbsp;&nbsp;◦ Download it on the <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">app store!</a><br/>
+        • Latest project: <a href="https://ridegt.com/">RideGT</a> — thousands of users navigating GT campus via transit<br/>
+        &nbsp;&nbsp;◦ 600+ likes and 70,000+ impressions on Linkedin<br/>
+        &nbsp;&nbsp;◦ <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">Download on the App Store</a><br/>
         <br/>
-        Feel free to reach out to collaborate! I'm always looking for something new to work on!<br/>
+        Always down to collaborate on something new!<br/>
         <br/>
         Email: vedantlalitbhatt@gmail.com<br/>
         Linkedin: <a href="https://www.linkedin.com/in/vedantlbhatt/">connect please :)</a><br/>
         Devpost: <a href="https://devpost.com/vedubhatt2006?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">all hackathons</a>
-      </p>
+      </small>
     </td>
   </tr>
 </table>
