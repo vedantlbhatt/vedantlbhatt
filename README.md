@@ -3,16 +3,16 @@
 <b>Hi! I'm Vedant!</b>
 <br/><br/>
 <small>
-• Studying Computer Science @ Georgia Tech<br/>
-• Current SDE Intern @ Expedia in Seattle, WA for Summer 2026<br/>
-• Won $25,000+ in prizes over 6 hackathons<br/>
+• Studying Computer Science @ Georgia Tech<br/><br/>
+• Current SDE Intern @ Expedia in Seattle, WA for Summer 2026<br/><br/>
+• Won $25,000+ in prizes over 6 hackathons<br/><br/>
 • Latest project: <a href="https://ridegt.com/">RideGT</a>, a simplified bus tracker for Georgia Tech students with 1,700+ MAU<br/>
 &nbsp;&nbsp;◦ 600+ likes and 70,000+ impressions on Linkedin<br/>
-&nbsp;&nbsp;◦ <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">Download on the App Store</a><br/>
+&nbsp;&nbsp;◦ <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">Download on the App Store</a><br/><br/>
 
 Email: vedantlalitbhatt@gmail.com<br/>
 Linkedin: <a href="https://www.linkedin.com/in/vedantlbhatt/">connect please :)</a><br/>
-Website: <a href="https://vedantbhatt.com">check me out!</a>
+Website: <a href="https://vedantbhatt.com">check me out!</a><br/>
 Devpost: <a href="https://devpost.com/vedubhatt2006?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">all hackathons</a>
 </small>
 
