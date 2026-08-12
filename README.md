@@ -8,7 +8,6 @@
 • Won $25,000+ in prizes over 6 hackathons<br/><br/>
 • Latest project: <a href="https://ridegt.com/">RideGT</a>, a simplified bus tracker for Georgia Tech students with 1,700+ MAU<br/>
 &nbsp;&nbsp;◦ This project is almost all of my private contributions below!<br/>
-&nbsp;&nbsp;◦ 600+ likes and 70,000+ impressions on Linkedin<br/>
 &nbsp;&nbsp;◦ <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">Download on the App Store</a><br/><br/>
 
 Email: vedantlalitbhatt@gmail.com<br/>
