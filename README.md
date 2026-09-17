@@ -1,5 +1,3 @@
-<img align="left" width="480" src="assets/vedant-portrait.png" alt="Vedant Bhatt" />
-
 <b>Hi! I'm Vedant!</b>
 <br/><br/>
 <small>
