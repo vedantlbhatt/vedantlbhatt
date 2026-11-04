@@ -2,7 +2,6 @@
 <br/><br/>
 <small>
 • Studying Computer Science @ Georgia Tech<br/><br/>
-• Incoming SWE Intern @ Shopify in New York, NY for Spring 2027<br/><br/>
 • Prev. SWE Intern @ Expedia in Seattle, WA for Summer 2026<br/><br/>
 • Won $25,000+ in prizes over 6 hackathons<br/><br/>
 • Latest project: <a href="https://ridegt.com/">RideGT</a>, a simplified bus tracker for Georgia Tech students with 1,700+ MAU<br/>
