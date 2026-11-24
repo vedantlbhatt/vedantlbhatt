@@ -2,9 +2,10 @@
 <br/><br/>
 <small>
 • Studying Computer Science @ Georgia Tech<br/><br/>
+• Incoming @ Palantir Technologies Summer 2027<br/><br/>
 • Prev. SWE Intern @ Expedia in Seattle, WA for Summer 2026<br/><br/>
 • Won $25,000+ in prizes over 6 hackathons<br/><br/>
-• Latest project: <a href="https://ridegt.com/">RideGT</a>, a simplified bus tracker for Georgia Tech students with 1,700+ MAU<br/>
+• Latest project: <a href="https://ridegt.com/">RideGT</a>, a simplified bus tracker for Georgia Tech students with 2000+ users! <br/>
 &nbsp;&nbsp;◦ This project is almost all of my private contributions below!<br/>
 &nbsp;&nbsp;◦ <a href="https://apps.apple.com/us/app/ridegt/id6762537992?ppid=1ada9c6c-c745-45a3-8b79-55ca373d5983">Download on the App Store</a><br/><br/>
 
